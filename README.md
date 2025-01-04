@@ -22,6 +22,10 @@ This project is a basic e-commerce website that allows users to browse products,
 - View cart
 - Checkout process
 
+## Demo
+
+[View the Live Demo](https://sanchitha5.github.io/E-commerce-website/)
+
 ## Installation
 To get started with this project, follow these steps:
 
